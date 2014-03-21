@@ -1,3 +1,17 @@
 body {
   background-image:url("Abstract_Background_Wallpaper_001.jpg");
+  text-align:center;
 }
+
+a {
+  text-decoration:none;
+}
+
+.follow-buttons {
+  display:inline-block;
+}
+
+.name {
+  font-size:50px;
+}
+
