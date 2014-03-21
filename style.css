@@ -12,7 +12,9 @@ h1 {
 }
 
 .follow-buttons {
-/*  display:inline;*/
+  display:inline;
+  height:25px;
+  vertical-align:middle;
 }
 
 #name {
