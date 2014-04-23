@@ -1,6 +1,7 @@
 body {
-  background:#B0E0E6;
+  background:#FAFAD2;
   text-align:center;
+  font-family: 'Special Elite', 'cursive';
 }
 
 a {
@@ -11,27 +12,5 @@ h1 {
   color:black;
 }
 
-/*.follow-buttons {
-  height:20px;
-  vertical-align:middle;
-}*/
 
-#name {
-  font-size:50px;
-  padding-top:20px;
-}
 
-.images {
-  border-style:ridge;
-}
-
-.boxes {
-  background-color:crimson;
-  text-align:center;
-  margin-left:auto;
-  margin-right:auto;
-  width:50%;
-  padding-bottom:20px;
-  border-color:white;
-  border-style:groove;
-}
